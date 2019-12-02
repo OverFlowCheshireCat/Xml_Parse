@@ -1,0 +1,21 @@
+<root>
+    <elements>
+        <item>
+            <name>사과</name>
+            <color>빨간색</color>
+            <cost>100</cost>
+        </item>
+        
+        <item>
+            <name>바나나</name>
+            <color>노란색</color>
+            <cost>200</cost>
+        </item>
+        
+        <item>
+            <name>포도</name>
+            <color>보라색</color>
+            <cost>300</cost>
+        </item>
+    </elements>
+</root>
